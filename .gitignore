@@ -1,2 +1,7 @@
-# Project exclude paths
+.idea
+.gitignore
+pom.xml
+Celebration.iml
+
+
 /target/
